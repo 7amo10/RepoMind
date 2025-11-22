@@ -1,0 +1,5 @@
+{
+  "name": "RepoMind",
+  "description": "A deep-dive analysis tool for GitHub repositories using Gemini 2.5. It creates architectural insights, analyzes tech stacks, and provides a context-aware chat interface for any public repository.",
+  "requestFramePermissions": []
+}
